@@ -1,0 +1,9 @@
+Button codes regarding dyson-controller IR controller:
+sendRC5(0x00000, 12);example 
+Button Code - power: 0xFCE1D0DA | 8A32A8A7 | 8932A712 | FBE1CF49 | 
+Button Code - Fan-up: 0x2FEDEE79 | 32EDF330 | 23CFAE85 | 24CFB016 |
+Button Code - Fan-down: 0xC1D0851 | D1D09E2 | 9A6DE1AF | 996DE01A |
+Button Code - Temp-up: 0xBA604E74 | 434BF36D | 464BF824 | B9604CE3 |
+Button Code - Temp-down: 0xEEF84FE7 | EDF84E52 | E2DA0FF3 | E3DA1184 |
+Button Code - cool-mode: 0xFEE02B6D | FFE02CFE | 8D3104CB | 8C310336 |
+Button Code - night-mode: 0x4AB7527C | D3A2F775 | D6A2FC2C | 49B750EB |
